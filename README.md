@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leonardo Villa
 - 👀 I’m interested in Computer Science and Rugby
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently learning ML
 - 📫 How to reach me villaleonardo99@gmail.com
 
 <!---
