@@ -1,4 +1,4 @@
-<h1 align:'center'>👋 Hi, I’m Leonardo Villa</h1>
+<h1 align='center'>👋 Hi, I’m Leonardo Villa</h1>
 I'm a current Computer Science major pursuing a Bachelor of Science degree at Florida International University. I am a highly motivated and passionate individual with a strong desire to make a difference in the field of technology. My journey has been marked by a proven track record of success in both academic and practical settings, and I am always seeking new opportunities to learn and grow.
 
 Throughout my studies, I have cultivated a robust foundation in programming languages such as Python, PHP, C/C++, HTML/CSS, JavaScript, Java, Assembly, along with hands-on experience in web development, and machine learning. My expertise extends to Agile development methodologies learned during my Software Engineering class.
